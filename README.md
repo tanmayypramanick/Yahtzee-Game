@@ -34,7 +34,7 @@ This project uses the `provider` and `collection` packages for state management 
 ### Model Classes
 The provided `Dice`, `ScoreCategory`, and `Scorecard` classes represent dice, scoring categories, and the scorecard. You may use them as-is, modify them, or implement your own model classes.
 
-## Screenshots
+## Screenshot
 
 ![Screenshot](https://github.com/tanmayypramanick/Yahtzee-Game/blob/main/Screenshot/Yahtzee_ss.png)
 
